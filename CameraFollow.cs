@@ -1,8 +1,8 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 public class CameraFollow : MonoBehaviour{ //cześć
 
-
+// No elo Cedziu  hyhyhy
     public Transform target;
 
     public float smoothSpeed = 0.125f;
